@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "docker for emby 4.7.5"
+echo "4.7.6"
 echo "-------------------web crack-------------------"
 rm -f /system/Emby.Web.dll
 wget -P /system/ https://raw.githubusercontent.com/utopia7/stdrep/main/Emby.Web.dll
